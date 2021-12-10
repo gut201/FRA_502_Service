@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	<node name = "teleop" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen">
+		<remap from="/robot_sim" to="/dd/base_controller/robot_sim"/>
+	</node>
+</launch>

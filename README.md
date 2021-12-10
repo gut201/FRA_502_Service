@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/78643149/145625734-e7e7b8ab-3898-42db-bf23-a891e428146b.png)
 
 3.ถ้าไม่มีการพูด หรือโปรแกรมไม่ได้รับเสียง
-![image](https://user-images.githubusercontent.com/78643149/145625941-1a9c7283-e797-4f3d-8ddd-27cdbf14f95c.png)
+~~~~~~![image](https://user-images.githubusercontent.com/78643149/145625941-1a9c7283-e797-4f3d-8ddd-27cdbf14f95c.png)
 
 4.คำสั่งเสียงมี 5 แบบ 
 ![image](https://user-images.githubusercontent.com/78643149/145629839-95440a65-d618-40db-852d-da62980fadf8.png)
@@ -30,4 +30,5 @@
 
 # ปัญหาที่พบ
 1.fpsต่ำ ทำให้ภาพกระตุก การบังคับหุ่นหรือสำรวจแมพทำได้ยาก
-2.
+2.ไมโครโฟนมีเสียงที่เบา ทำให้การสั่งงานด้วยเสียงมีความล่าช้า หรืออาจทำงานไม่ได้
+3.
